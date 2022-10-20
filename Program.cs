@@ -25,7 +25,7 @@ while (playAgain == true)
 
 if (canParse == false)
 {
-    Console.WriteLine("ERROR invalid entry. Please enter a number:");
+    Console.WriteLine("ERROR invalid entry. You can only input numbers!");
 }
 else
 {
