@@ -6,7 +6,6 @@
 //input is not a number. Will also have play again function.
 
 
-string playAgainDelete = "";
 string userInput;
 string userInputEnd;
 int remainder = 0;
