@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj": {}
+    "/Users/arelymartinez/Desktop/GitRepository/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj": {}
   },
   "projects": {
-    "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj": {
+    "/Users/arelymartinez/Desktop/GitRepository/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj",
+        "projectUniqueName": "/Users/arelymartinez/Desktop/GitRepository/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj",
         "projectName": "LeBMiniCh6OddOrEven",
-        "projectPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj",
-        "packagesPath": "/Users/brandonle/.nuget/packages/",
-        "outputPath": "/Users/brandonle/Desktop/CODESTACK/LevelOne/October/Week1/LeBMiniCh6OddOrEven/obj/",
+        "projectPath": "/Users/arelymartinez/Desktop/GitRepository/LeBMiniCh6OddOrEven/LeBMiniCh6OddOrEven.csproj",
+        "packagesPath": "/Users/arelymartinez/.nuget/packages/",
+        "outputPath": "/Users/arelymartinez/Desktop/GitRepository/LeBMiniCh6OddOrEven/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandonle/.nuget/NuGet/NuGet.Config"
+          "/Users/arelymartinez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
